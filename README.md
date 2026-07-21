@@ -14,4 +14,4 @@ A virtual reality planetarium developed in Unreal Engine 4.27 as a two-semester 
 
 ## Media
 - Portfolio: Loading...
-- Demo Video: [<link>](https://youtu.be/GaG-BMXiHL8?si=l7dboZok0yMeA31J)
+- Demo Video: https://youtu.be/GaG-BMXiHL8?si=l7dboZok0yMeA31J
